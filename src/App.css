@@ -1,0 +1,27 @@
+.Carrier {
+  margin-top: 10%;
+}
+.container img {
+  margin-top: 10%;
+}
+.head1 {
+  margin-top: 10%;
+}
+.head1 .Tech h2 {
+  margin-top: 5%;
+}
+.ft-social {
+  padding: 0 1.875rem 1.25rem;
+}
+.ft-social-list {
+  display: flex;
+  justify-content: center;
+  border-top: 1px #777 solid;
+  padding-top: 1.25rem;
+}
+.ft-social-list li {
+  margin: 0.5rem;
+  font-size: 1.25rem;
+  font-size: 20px;
+  list-style: none;
+}
